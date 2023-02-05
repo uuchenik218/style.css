@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+    margin:30px ;
+    p:20px
+}
+header{
+    border:5px solid blue; 
+    border-radius: 10px;
+    text-decoration:none;
+    padding: 5px;
+} header b{
+    color:darkblue}
+
+header a{
+        text-decoration:none ;
+        background-color:darkblue ;
+        color:white;
+        margin: 5px;
+        padding: 5px;border-radius: 5px;
+    }
+    h1{background:lightblue;
+    text-align: center;
+    color:darkblue;
+    text-size:2px;
+    border-radius: 5px;
+    }
+    footer p{background-color: limegreen;
+    padding: 5px;
+    }
+    nav{
+        background-color: darkgreen;
+        margin: 5px;
+        color:white;
+        text-decoration: none;border-radius: 5px;
+    }
+    nav a{color:white;
+        text-decoration: none;
+        padding: 30px;
+        border-radius: 5px;
+        margin: 10px;}
+        .ghj{
+            background-color:lightgreen;
+            padding: 10px;margin: 10px;
+        }
+        .sdf{background-color:lightgreen;
+            padding: 10px;margin: 10px;}
+            .hjk{background-color:lightgreen;
+            padding: 10px;margin: 10px;}
+            .qwe{background-color:lightgreen;
+            padding: 10px;margin: 10px;}
+            .aa{
+                color:red ;
+            }
+            .sa{
+                color:blue;
+            }
+            .da{
+                color:lime
+            }
+            .fa{
+                color:violet
+            }
+            .ga{
+                color:orange
+            }
+            .ha{text-decoration:none ;
+        background-color:burlywood ;
+        color:white;
+        margin: 5px;
+        padding: 5px;border-radius: 5px;}
+        .ja{text-decoration:none ;
+        background-color:lawngreen ;
+        color:black;
+        margin: 5px;
+        padding: 5px;border-radius: 5px;}
